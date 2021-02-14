@@ -2,6 +2,10 @@
 
 Algumas de minhas contribuições científicas para com a Ciência da Computação
 
+## CV Lattes
+
+Endereço CV Lattes: [http://lattes.cnpq.br/6618667439740836](http://lattes.cnpq.br/6618667439740836)
+
 ### Projetos
 
 - O Algoritmo Density-Based Spatial Clustering of Applications With Noise (DBSCAN) na Clusterização dos Indicadores de Monitoramento das Bacias Hidrográficas da Região Carbonífera

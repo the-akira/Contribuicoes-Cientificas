@@ -27,6 +27,7 @@
 | Django Secret Library | [secretlibrary.pythonanywhere.com](https://secretlibrary.pythonanywhere.com/) | Django |
 | Akira Django Blog | [akiradjango.herokuapp.com](https://akiradjango.herokuapp.com/) | Django |
 | Cyber Punk Blog | [cyberpunk.pythonanywhere.com](https://cyberpunk.pythonanywhere.com/) | Django |
+| CC33Z | [cc33z.herokuapp.com](https://cc33z.herokuapp.com/) | Django |
 | Video Games API | [videogamesapi.herokuapp.com](https://videogamesapi.herokuapp.com/) | Django & DRF |
 | Movies API | [mooviesapi.herokuapp.com](https://mooviesapi.herokuapp.com/) | Django & DRF |
 | Philosophy API | [philosophyapi.herokuapp.com](https://philosophyapi.herokuapp.com/) | Django & DRF |

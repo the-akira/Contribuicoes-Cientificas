@@ -16,6 +16,9 @@
 | Cyber Underground | [cyberunderground.netlify.app](https://cyberunderground.netlify.app/) | HTML & CSS |
 | Gabriel CV | [gabrielcv.netlify.app](https://gabrielcv.netlify.app/) | HTML & CSS |
 | Python Web Scraping  | [pythonwebscraping.netlify.app](https://pythonwebscraping.netlify.app/) | HTML & CSS |
+| Web33 Responsive Design  | [web33.netlify.app](https://web33.netlify.app/) | HTML & CSS |
+| Projeto Desenvolvimento Web  | [desenvolvimentoweb.netlify.app](https://desenvolvimentoweb.netlify.app/) | HTML & CSS |
+| Introdução Ciência da Computação  | [cc33z.netlify.app](https://cc33z.netlify.app/) | HTML & CSS |
 | Flask Genesis | [flaskgenesis.netlify.app](https://flaskgenesis.netlify.app/) | Flask |
 | Dungeons & Dragons | [dungeons-and-dragonz.herokuapp.com](https://dungeons-and-dragonz.herokuapp.com/) | Flask |
 | Akira Flask Blog | [akiraflask.herokuapp.com](https://akiraflask.herokuapp.com/) | Flask |

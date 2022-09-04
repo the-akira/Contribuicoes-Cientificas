@@ -16,6 +16,4 @@
 | Flask Genesis | [flaskgenesis.netlify.app](https://flaskgenesis.netlify.app/) | Flask |
 | Flask Pokédex | [akiraflask.pythonanywhere.com](https://akiraflask.pythonanywhere.com/) | Flask |
 | Secret Library | [secretslibrary.pythonanywhere.com](https://secretslibrary.pythonanywhere.com/) | Flask |
-| Django Secret Library | [secretlibrary.pythonanywhere.com](https://secretlibrary.pythonanywhere.com/) | Django |
-| Cyber Punk Blog | [cyberpunk.pythonanywhere.com](https://cyberpunk.pythonanywhere.com/) | Django |
 | Philosophy API | [philosophyapi.pythonanywhere.com](https://philosophyapi.pythonanywhere.com/) | Django & DRF |

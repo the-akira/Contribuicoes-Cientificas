@@ -17,3 +17,4 @@
 | Flask Pokédex | [akiraflask.pythonanywhere.com](https://akiraflask.pythonanywhere.com/) | Flask |
 | Secret Library | [secretslibrary.pythonanywhere.com](https://secretslibrary.pythonanywhere.com/) | Flask |
 | Philosophy API | [philosophyapi.pythonanywhere.com](https://philosophyapi.pythonanywhere.com/) | Django & DRF |
+| CC33Z | [cc33z.pythonanywhere.com](https://cc33z.pythonanywhere.com/) | Django |

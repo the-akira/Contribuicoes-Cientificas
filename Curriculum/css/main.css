@@ -3,6 +3,7 @@ html {
     margin: 0;
     box-sizing: border-box;
 }
+
 *, *:before, *:after {
     box-sizing: inherit;
 }
@@ -35,10 +36,12 @@ h1 {
 h2 {
     letter-spacing: 2px;
 }
+
 header h2 {
     color: #999999;
     font-size: 1.3em;
 }
+
 div h2 {
     font-size: 1.3em;
 }
@@ -50,7 +53,6 @@ h3 {
     margin-top: 0;
 }
 
-
 p {
     margin-top: 5px;
     margin-bottom: 5px;
@@ -60,14 +62,12 @@ p {
     letter-spacing: 1px;
 }
 
-
 h3 + p {
     text-transform: uppercase;
     font-family: 'Nunito', Arial, sans-serif;    
     color: #999999;
     letter-spacing: 1px;
 }
-
 
 ul li {
     font-family: 'Ubuntu', sans-serif;
@@ -76,8 +76,6 @@ ul li {
     padding-bottom: 10px;
     font-size: .9em;
 }
-
-
 
 header {
     text-align: center;

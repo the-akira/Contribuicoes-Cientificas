@@ -1,6 +1,6 @@
 # Contribuições Científicas
 
-Algumas de minhas contribuições científicas para com a Ciência da Computação
+Algumas de minhas contribuições científicas para com a Ciência da Computação.
 
 ## CV Lattes
 

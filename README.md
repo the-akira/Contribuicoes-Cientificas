@@ -4,7 +4,7 @@ Algumas de minhas contribuições científicas para com a Ciência da Computaç�
 
 ## CV Lattes
 
-Endereço CV Lattes: [http://lattes.cnpq.br/6618667439740836](http://lattes.cnpq.br/6618667439740836)
+Endereço Currículo Lattes: [http://lattes.cnpq.br/6618667439740836](http://lattes.cnpq.br/6618667439740836)
 
 ### Projetos
 

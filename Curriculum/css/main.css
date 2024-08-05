@@ -19,11 +19,15 @@ main {
 
 h1, h2, h3 {
     text-transform: uppercase;
-    font-family: 'Nunito', Arial, sans-serif;
+    font-family: 'Ubuntu', Arial, sans-serif;
     color: #d9d7e0;
     margin: 0;
     padding: 0;
     font-weight: 400;
+}
+
+b {
+    color: #d9d7e0;
 }
 
 h1 { 
@@ -31,19 +35,22 @@ h1 {
     font-weight: 100;
     letter-spacing: 10px;
     margin-bottom: 10px;
+    font-family: 'Ubuntu', Arial, sans-serif;  
 }
  
 h2 {
     letter-spacing: 2px;
+    font-family: 'Ubuntu', Times, serif;
 }
 
 header h2 {
     color: #999999;
-    font-size: 1.3em;
+    font-size: 1.5em;
+    margin-bottom: 10px;
 }
 
 div h2 {
-    font-size: 1.3em;
+    font-size: 1.4em;
 }
 
 h3 { 
@@ -51,20 +58,22 @@ h3 {
     letter-spacing: 2px;
     font-weight: bold;
     margin-top: 0;
+    font-size: 1.5rem;
 }
 
 p {
     margin-top: 5px;
     margin-bottom: 5px;
-    font-family: 'IBM Plex Serif', Times, serif;
+    font-family: 'Ubuntu', Times, serif;
     color: #d9d7e0;
     font-size: .9em;
     letter-spacing: 1px;
+    font-size: 1.18rem;
 }
 
 h3 + p {
     text-transform: uppercase;
-    font-family: 'Nunito', Arial, sans-serif;    
+    font-family: 'Ubuntu', Arial, sans-serif;    
     color: #999999;
     letter-spacing: 1px;
 }
@@ -74,7 +83,7 @@ ul li {
     color: #999999;
     line-height: 1.4;
     padding-bottom: 10px;
-    font-size: .9em;
+    font-size: 1.13rem;
 }
 
 header {
@@ -84,7 +93,7 @@ header {
 
 footer p {
     text-align: center;
-    font-family: 'Nunito', Arial, sans-serif; 
+    font-family: 'Ubuntu', Arial, sans-serif; 
     padding: 30px;
 }
 

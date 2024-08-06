@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 html {
     background: #131217;
     margin: 0;
@@ -19,7 +21,7 @@ main {
 
 h1, h2, h3 {
     text-transform: uppercase;
-    font-family: 'Ubuntu', Arial, sans-serif;
+    font-family: "Ubuntu", sans-serif;
     color: #d9d7e0;
     margin: 0;
     padding: 0;
@@ -35,12 +37,12 @@ h1 {
     font-weight: 100;
     letter-spacing: 10px;
     margin-bottom: 10px;
-    font-family: 'Ubuntu', Arial, sans-serif;  
+    font-family: "Ubuntu", sans-serif;  
 }
  
 h2 {
     letter-spacing: 2px;
-    font-family: 'Ubuntu', Times, serif;
+    font-family: "Ubuntu", sans-serif;
 }
 
 header h2 {
@@ -65,7 +67,7 @@ h3 {
 p {
     margin-top: 5px;
     margin-bottom: 5px;
-    font-family: 'Ubuntu', Times, serif;
+    font-family: "Ubuntu", sans-serif;
     color: #d9d7e0;
     font-size: .9em;
     letter-spacing: 1px;
@@ -74,7 +76,7 @@ p {
 
 h3 + p {
     text-transform: uppercase;
-    font-family: 'Ubuntu', Arial, sans-serif;    
+    font-family: "Ubuntu", sans-serif;    
     color: #999999;
     letter-spacing: 1px;
 }
@@ -95,7 +97,7 @@ header {
 
 footer p {
     text-align: center;
-    font-family: 'Ubuntu', Arial, sans-serif; 
+    font-family: "Ubuntu", sans-serif; 
     padding: 30px;
 }
 
